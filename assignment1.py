@@ -1,0 +1,7 @@
+x=int(input('Enter a value ='))
+y=int(input('Enter a value ='))
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(pow(x,y))
